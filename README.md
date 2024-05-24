@@ -1,0 +1,2 @@
+# mavlink_ui_py
+根据mavlink的xml生成对应的ui上位机
